@@ -46,7 +46,7 @@ How to setup scene: there is "scene_setup.json" file.<br>
 
 ## Licenses
 Created by Nick Nishort - [github](https://github.com/Jill-of-All-Trades) 
-* This is licensed under [Creative Common BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+* This is licensed under MIT license
 * TinyGLTF : MIT license
 * json.hpp : Copyright (c) 2013-2017 Niels Lohmann. MIT license
 * stb_image.h : v2.08 - public domain image loader 

@@ -1,0 +1,35 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeDependentOption.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CheckIncludeFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/CheckSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/GNUInstallDirs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.19/Modules/WriteBasicConfigVersionFile.cmake
+C:/vs_dev_lib/glfw-3.3.2/CMakeLists.txt
+C:/vs_dev_lib/glfw-3.3.2/build/CMakeFiles/3.19.0-rc1/CMakeCCompiler.cmake
+C:/vs_dev_lib/glfw-3.3.2/build/CMakeFiles/3.19.0-rc1/CMakeRCCompiler.cmake
+C:/vs_dev_lib/glfw-3.3.2/build/CMakeFiles/3.19.0-rc1/CMakeSystem.cmake
+C:/vs_dev_lib/glfw-3.3.2/cmake_uninstall.cmake.in
+C:/vs_dev_lib/glfw-3.3.2/src/glfw3.pc.in
+C:/vs_dev_lib/glfw-3.3.2/src/glfw3Config.cmake.in
+C:/vs_dev_lib/glfw-3.3.2/src/glfw_config.h.in

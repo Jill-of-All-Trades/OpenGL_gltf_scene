@@ -1,0 +1,25 @@
+{
+    "models": [
+        "./models/matilda/scene.gltf",
+        "./models/komi_san_vending_machine/scene.gltf",
+        "./models/seven_stars_brick_lane/scene.gltf"
+    ],
+    "transform":[
+        {
+            "pos": [-15, 0, 5],
+            "rot": [0, 0, 0],
+            "scl": [0.01, 0.01, 0.01]
+        },
+        {
+            "_comment": "Komi VM has broken origin I guess, so transform is weird xdd",
+            "pos": [-32, -17.5, -10.95],
+            "rot": [0, 0, -90],
+            "scl": [0.01, 0.01, 0.01]
+        },
+        {
+            "pos": [0, -6, 0],
+            "rot": [0, 0, 0],
+            "scl": [1, 1, 1]
+        }
+    ]
+}

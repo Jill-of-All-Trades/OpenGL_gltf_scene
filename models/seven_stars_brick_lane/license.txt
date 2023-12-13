@@ -1,0 +1,11 @@
+Model Information:
+* title:	Seven Stars Brick Lane
+* source:	https://sketchfab.com/3d-models/seven-stars-brick-lane-9a16438ddcd34a51a9e3b04e0ab04be7
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Seven Stars Brick Lane" (https://sketchfab.com/3d-models/seven-stars-brick-lane-9a16438ddcd34a51a9e3b04e0ab04be7) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
